@@ -1,5 +1,5 @@
 # Auth
-Working on an Authentication Page using FastAPI
+Working on an Authentication Page for QuickGrocer using FastAPI
 
 C:\Users\Tejas\Fast_API_Auth>uvicorn test:app --reload
 INFO:     Will watch for changes in these directories: ['C:\\Users\\Tejas\\Fast_API_Auth']
